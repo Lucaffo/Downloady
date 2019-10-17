@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="it.xedoll.downloady.test" >
+4
+5    <uses-sdk
+5-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:5:5-74
+6        android:minSdkVersion="22"
+6-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:11:5-15:74
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:11:22-76
+11        android:functionalTest="false"
+11-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:13:22-53
+13        android:label="Tests for it.xedoll.downloady.test"
+13-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:15:22-72
+14        android:targetPackage="it.xedoll.downloady.test" />
+14-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:12:22-70
+15
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->[__tested_artifact__::downloady] C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-80
+16-->[__tested_artifact__::downloady] C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-77
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->[__tested_artifact__::downloady] C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+17-->[__tested_artifact__::downloady] C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->[__tested_artifact__::downloady] C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-67
+18-->[__tested_artifact__::downloady] C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-64
+19
+20    <application
+20-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\lraffo\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true" >
+22-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:8:9-60
+23-->C:\Users\lraffo\Documents\Android Apps\DownloadyLibrary\downloady\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5051730390246734278.xml:8:23-57
+24    </application>
+25
+26</manifest>
